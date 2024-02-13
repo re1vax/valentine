@@ -1,6 +1,6 @@
 let i = 0;
 let text1 = "Hey! Jasleen. Will you be my valentine?";
-let text2 = "Click on one of those falling snow particles before it shatters to reject"
+let text2 = "Click on one of those falling snow particles before it shatters to reject :>"
 let speed = 100;
 
 function typeWriter(text, para){
